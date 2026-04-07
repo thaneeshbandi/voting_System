@@ -65,7 +65,7 @@ The Secure Digital Voting System provides a reliable way for users to participat
 ### 1. Clone the repository
 
 ```bash id="q1d8lo"
-git clone https://github.com/YOUR_USERNAME/voting_System.git
+git clone https://github.com/thaneeshbandi/voting_System.git
 cd voting_System
 ```
 
